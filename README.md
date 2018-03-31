@@ -1,6 +1,7 @@
 # DiceGame
 This is a Dice Game Played between 2 players where they keep rolling dice until one player crosses a set value and is declared the winner.
 
+
 Rules for this Game
 - The game has 2 players, playing in rounds
 - In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score
@@ -16,3 +17,7 @@ Changed the game to follow these rules:
 2. Add an input field to the HTML where players can set the winning score, so that they can change the predefined score of 100.
 3. Add another dice to the game, so that there are two dices now. The player looses his current score when one of them is a 1.
 
+Tech Stack: 
+-HTML5
+-CSS3
+-JavaScript
